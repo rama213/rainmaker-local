@@ -589,6 +589,13 @@
        "$.code"
       ]
     },
+     "YearOfConstruction": {
+      "masterName": "YearOfConstruction",
+      "isStateLevel": true,
+      "uniqueKeys": [
+       "$.code"
+      ]
+    },
     "Penalty": {
       "masterName": "Penalty",
       "isStateLevel": true,
